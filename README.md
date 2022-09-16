@@ -20,6 +20,10 @@ Projeto:
 
 Projeto: <a href="https://replit.com/@paganimariadl/Dia-2-1#main.py"> Calculadora de gorjetas</a>
 
+<br>
+<li> Dia 3 - <a href="https://github.com/mariahyde-dev/100days-of-code/tree/master/Dia%203">Fluxo de Controle e Operadores Lógicos </a></li>
+Projeto:
+<a href="https://replit.com/@paganimariadl/Dia-3#main.py"> Jogo "Caça ao tesouro" </a>
 </ul>
 
 
