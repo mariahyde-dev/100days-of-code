@@ -11,20 +11,28 @@ Este repositório é sobre o conteúdo aprendido e praticado no curso  <a href="
     <li>Dia 1 - <a href="https://github.com/mariahyde-dev/100days-of-code/tree/master/Dia%201">Trabalhando com variáveis em Python para gerenciar dados.</a></li>
     
 Projeto:
-<a href="https://replit.com/@paganimariadl/gerador-nome-banda#main.py">Criando um gerador de nome para bandas</a>
+<a href="https://replit.com/@paganimariadl/gerador-nome-banda#main.py">Criando um gerador de nome para bandas</a> </ul>
 
 <br>
 
 
-<li>Dia 2 - <a href="https://github.com/mariahyde-dev/100days-of-code/tree/master/Dia%202"> Entendendo os tipos de dados e como manipular strings. </a></li>
+<ul><li>Dia 2 - <a href="https://github.com/mariahyde-dev/100days-of-code/tree/master/Dia%202"> Entendendo os tipos de dados e como manipular strings. </a></li>
 
-Projeto: <a href="https://replit.com/@paganimariadl/Dia-2-1#main.py"> Calculadora de gorjetas</a>
+Projeto: <a href="https://replit.com/@paganimariadl/Dia-2-1#main.py"> Calculadora de gorjetas</a></ul>
 
 <br>
-<li> Dia 3 - <a href="https://github.com/mariahyde-dev/100days-of-code/tree/master/Dia%203">Fluxo de Controle e Operadores Lógicos </a></li>
-Projeto:
-<a href="https://replit.com/@paganimariadl/Dia-3#main.py"> Jogo "Caça ao tesouro" </a>
-</ul>
+    <ul><li> Dia 3 - <a href="https://github.com/mariahyde-dev/100days-of-code/tree/master/Dia%203">Fluxo de Controle e Operadores Lógicos </a></li>
+Projeto: <a href="https://replit.com/@paganimariadl/Dia-3#main.py"> Jogo "Caça ao tesouro" </a></ul>
+
+
+
+<br>
+
+
+  <ul><li>Dia 4 - <a href="https://github.com/mariahyde-dev/100days-of-code/tree/master/Dia%204"> Randomização e listas Python </a></li>
+Projeto: <a href="https://replit.com/@paganimariadl/Dia-4#main.py"> Jogo "pedra, papel e tesoura"</a></ul>
+
+
 
 
 <br>
