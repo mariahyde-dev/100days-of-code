@@ -36,6 +36,16 @@ Projeto: <a href="https://replit.com/@paganimariadl/Dia-4#main.py"> Jogo "pedra,
 
 
 <br>
+
+
+  <ul><li>Dia 5 - <a href="https://github.com/mariahyde-dev/100days-of-code/blob/master/Dia%205/main.py"> Repetições </a></li>
+Projeto: <a href="https://replit.com/@paganimariadl/Dia-5#main.py"> Gerador de senhas </a></ul>
+
+
+
+
+
+<br>
 <br>
 
 <div align="center">
